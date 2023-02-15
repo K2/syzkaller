@@ -20,7 +20,7 @@ require (
 	github.com/matoous/godox v0.0.0-20200801072554-4fb83dc2941e // indirect
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/pelletier/go-toml v1.8.1 // indirect
-	github.com/prometheus/client_golang v0.9.3
+	github.com/prometheus/client_golang v1.11.1
 	github.com/quasilyte/regex/syntax v0.0.0-20200805063351-8f842688393c // indirect
 	github.com/spf13/afero v1.4.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
@@ -31,7 +31,7 @@ require (
 	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/perf v0.0.0-20211012211434-03971e389cd3
-	golang.org/x/sys v0.0.0-20210503080704-8803ae5d1324
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.46.0
 	google.golang.org/appengine/v2 v2.0.1
